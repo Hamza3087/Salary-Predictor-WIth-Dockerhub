@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/salary-prediction-app:latest
+          tags: hamza3087/salary-prediction-app:latest
